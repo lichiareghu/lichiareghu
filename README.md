@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lichiareghu
-- 👀 I’m interested in Telecom technologis, Networking, Automation and DataScience
-- 🌱 I’m currently learning Data Science with python
+- 👀 I’m interested in Telecom technologies, Networking, Automation and DataScience
+- 🌱 I’m currently working on a Business Intelligence project
 - 💞️ I’m looking to collaborate on Data Science with python projects
 - 📫 How to reach me : lichiareghu@gmail.com
 
