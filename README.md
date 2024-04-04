@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lichiareghu
-- 👀 I’m interested in Telecom technologies, Networking, Automation and DataScience
+- 👀 I’m interested in Artificial Intelligence and NLP
 - 🌱 I’m currently working on a chatbot
-- 💞️ I’m looking to collaborate on Data Science with python projects
+- 💞️ I’m looking to collaborate on python and NLP projects
 - 📫 How to reach me : lichiareghu@gmail.com
 
 <!---
